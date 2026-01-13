@@ -1,4 +1,4 @@
- <h1>Video Calling App</h1>
+ <h1>QuickVC App</h1>
     <p>This project is a full-stack video calling application. The backend is built using <strong>Spring Boot</strong>, <strong>WebRTC</strong>, <strong>WebSockets</strong>, and the frontend uses <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, along with <strong>STOMP Client</strong> and <strong>SockJS</strong> for WebSocket communication.</p>
 
 <h2>Features</h2>
