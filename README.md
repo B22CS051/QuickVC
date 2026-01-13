@@ -81,7 +81,4 @@
 
 <hr>
 
-<h2>Contributing</h2>
-    <p>Contributions are welcome! Please fork the repository and create a pull request with your changes.</p>
 
-<hr>
